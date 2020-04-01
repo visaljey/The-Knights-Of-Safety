@@ -1,0 +1,67 @@
+2020-02-28T07:04:59+00:00 CRITICAL Object of class vcBaseTestimonial could not be converted to string in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-params/vc_base_testimonial.php on line 504
+
+2020-02-28T07:11:38+00:00 CRITICAL Uncaught Error: Call to a member function getStyles() on string in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_base_testimonial.php:131
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-corona/wp-content/plugins/unyson/framework/helpers/general.php(745): require()
+#1 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-params/vc_base_testimonial.php(509): fw_render_view('/home/phamm227/...', NULL, true)
+#2 /home/phamm227/public_html/themes/alone-corona/wp-includes/shortcodes.php(325): vcBaseTestimonial->vc_base_testimonial_html(Array, '', 'vc_base_testimo...')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/phamm227/public_html/themes/alone-corona/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(vc_bas...', 'do_shortcode_ta...', '[vc_base_testim...')
+#5 /home/phamm227/public_html/themes/alone-corona/wp-cont in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_base_testimonial.php on line 131
+
+2020-02-28T07:13:08+00:00 CRITICAL Object of class vcCounterUp could not be converted to string in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-params/vc_counter_up.php on line 284
+
+2020-02-28T08:30:35+00:00 CRITICAL Uncaught Error: Call to a member function getAttributes() on string in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_counter_up.php:34
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-corona/wp-content/plugins/unyson/framework/helpers/general.php(745): require()
+#1 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-params/vc_counter_up.php(288): fw_render_view('/home/phamm227/...', NULL, true)
+#2 /home/phamm227/public_html/themes/alone-corona/wp-includes/shortcodes.php(325): vcCounterUp->vc_counter_up_html(Array, '', 'vc_counter_up')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/phamm227/public_html/themes/alone-corona/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(vc_cou...', 'do_shortcode_ta...', '[vc_single_imag...')
+#5 /home/phamm227/public_html/themes/alone-corona/wp-content/plugins/js_composer/in in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_counter_up.php on line 34
+
+2020-02-28T08:31:32+00:00 CRITICAL Uncaught Error: Call to a member function getAttributes() on string in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_counter_up.php:34
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-corona/wp-content/plugins/unyson/framework/helpers/general.php(745): require()
+#1 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-params/vc_counter_up.php(288): fw_render_view('/home/phamm227/...', NULL, true)
+#2 /home/phamm227/public_html/themes/alone-corona/wp-includes/shortcodes.php(325): vcCounterUp->vc_counter_up_html(Array, '', 'vc_counter_up')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/phamm227/public_html/themes/alone-corona/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(vc_cou...', 'do_shortcode_ta...', '[vc_single_imag...')
+#5 /home/phamm227/public_html/themes/alone-corona/wp-content/plugins/js_composer/in in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_counter_up.php on line 34
+
+2020-02-28T08:32:55+00:00 CRITICAL Uncaught Error: Call to a member function getAttributes() on string in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_counter_up.php:37
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-corona/wp-content/plugins/unyson/framework/helpers/general.php(745): require()
+#1 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-params/vc_counter_up.php(288): fw_render_view('/home/phamm227/...', NULL, true)
+#2 /home/phamm227/public_html/themes/alone-corona/wp-includes/shortcodes.php(325): vcCounterUp->vc_counter_up_html(Array, '', 'vc_counter_up')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/phamm227/public_html/themes/alone-corona/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(vc_cou...', 'do_shortcode_ta...', '[vc_counter_up ...')
+#5 /home/phamm227/public_html/themes/alone-corona/wp-content/plugins/js_composer/in in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_counter_up.php on line 37
+
+2020-02-28T08:34:02+00:00 CRITICAL Uncaught Error: Call to a member function getStyles() on string in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_counter_up.php:44
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-corona/wp-content/plugins/unyson/framework/helpers/general.php(745): require()
+#1 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-params/vc_counter_up.php(288): fw_render_view('/home/phamm227/...', NULL, true)
+#2 /home/phamm227/public_html/themes/alone-corona/wp-includes/shortcodes.php(325): vcCounterUp->vc_counter_up_html(Array, '', 'vc_counter_up')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/phamm227/public_html/themes/alone-corona/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(vc_cou...', 'do_shortcode_ta...', '[vc_counter_up ...')
+#5 /home/phamm227/public_html/themes/alone-corona/wp-content/plugins/js_composer/includ in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_counter_up.php on line 44
+
+2020-02-28T08:34:57+00:00 CRITICAL Uncaught Error: Call to a member function enqueueGoogleFonts() on string in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_counter_up.php:46
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-corona/wp-content/plugins/unyson/framework/helpers/general.php(745): require()
+#1 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-params/vc_counter_up.php(288): fw_render_view('/home/phamm227/...', NULL, true)
+#2 /home/phamm227/public_html/themes/alone-corona/wp-includes/shortcodes.php(325): vcCounterUp->vc_counter_up_html(Array, '', 'vc_counter_up')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/phamm227/public_html/themes/alone-corona/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(vc_cou...', 'do_shortcode_ta...', '[vc_counter_up ...')
+#5 /home/phamm227/public_html/themes/alone-corona/wp-content/plugins/js_compos in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_counter_up.php on line 46
+
+2020-02-28T08:35:41+00:00 CRITICAL Uncaught Error: Call to a member function getAttributes() on string in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_counter_up.php:34
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-corona/wp-content/plugins/unyson/framework/helpers/general.php(745): require()
+#1 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-params/vc_counter_up.php(288): fw_render_view('/home/phamm227/...', NULL, true)
+#2 /home/phamm227/public_html/themes/alone-corona/wp-includes/shortcodes.php(325): vcCounterUp->vc_counter_up_html(Array, '', 'vc_counter_up')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/phamm227/public_html/themes/alone-corona/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(vc_cou...', 'do_shortcode_ta...', '[vc_single_imag...')
+#5 /home/phamm227/public_html/themes/alone-corona/wp-content/plugins/js_composer/in in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-elements/vc_counter_up.php on line 34
+

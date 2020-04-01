@@ -1,0 +1,56 @@
+2020-02-20T09:24:46+00:00 CRITICAL Uncaught Exception: parse error: failed at `position: relative` /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/assets/style-scss/_js-composer.scss on line 10869 in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php:4066
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2754): scss_parser->throwParseError()
+#1 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(1669): scss_parser->parse('%sermon-modal-p...')
+#2 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(608): scssc->importFile('/home/phamm227/...', Object(stdClass))
+#3 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(639): scssc->compileImport(Array, Object(stdClass))
+#4 /home/phamm227/public_html/themes/alone-corona/wp-content/the in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php on line 4066
+
+2020-02-20T09:24:51+00:00 CRITICAL Uncaught Exception: parse error: failed at `position: relative` /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/assets/style-scss/_js-composer.scss on line 10869 in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php:4066
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2754): scss_parser->throwParseError()
+#1 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(1669): scss_parser->parse('%sermon-modal-p...')
+#2 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(608): scssc->importFile('/home/phamm227/...', Object(stdClass))
+#3 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(639): scssc->compileImport(Array, Object(stdClass))
+#4 /home/phamm227/public_html/themes/alone-corona/wp-content/the in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php on line 4066
+
+2020-02-20T09:27:10+00:00 CRITICAL Uncaught Exception: parse error: failed at `height: 100%` /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/assets/style-scss/_js-composer.scss on line 10866 in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php:4066
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2754): scss_parser->throwParseError()
+#1 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(1669): scss_parser->parse('%sermon-modal-p...')
+#2 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(608): scssc->importFile('/home/phamm227/...', Object(stdClass))
+#3 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(639): scssc->compileImport(Array, Object(stdClass))
+#4 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/al in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php on line 4066
+
+2020-02-20T09:46:23+00:00 CRITICAL Uncaught Exception: parse error: failed at `display: inline-block` /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/assets/style-scss/_js-composer.scss on line 10922 in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php:4066
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2754): scss_parser->throwParseError()
+#1 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(1669): scss_parser->parse('%sermon-modal-p...')
+#2 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(608): scssc->importFile('/home/phamm227/...', Object(stdClass))
+#3 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(639): scssc->compileImport(Array, Object(stdClass))
+#4 /home/phamm227/public_html/themes/alone-corona/wp-content/ in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php on line 4066
+
+2020-02-20T09:46:27+00:00 CRITICAL Uncaught Exception: parse error: failed at `display: inline-block` /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/assets/style-scss/_js-composer.scss on line 10922 in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php:4066
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2754): scss_parser->throwParseError()
+#1 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(1669): scss_parser->parse('%sermon-modal-p...')
+#2 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(608): scssc->importFile('/home/phamm227/...', Object(stdClass))
+#3 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(639): scssc->compileImport(Array, Object(stdClass))
+#4 /home/phamm227/public_html/themes/alone-corona/wp-content/ in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php on line 4066
+
+2020-02-20T09:48:54+00:00 CRITICAL Uncaught Exception: parse error: failed at `=webkit-border-radius: 5px;` /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/assets/style-scss/_js-composer.scss on line 10857 in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php:4066
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2754): scss_parser->throwParseError()
+#1 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(1669): scss_parser->parse('%sermon-modal-p...')
+#2 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(608): scssc->importFile('/home/phamm227/...', Object(stdClass))
+#3 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(639): scssc->compileImport(Array, Object(stdClass))
+#4 /home/phamm227/public_html/themes/alone-corona/wp-co in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php on line 4066
+
+2020-02-20T09:49:05+00:00 CRITICAL Uncaught Exception: unclosed block: failed at `` /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/assets/style-scss/_js-composer.scss on line 11055 in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php:4066
+Stack trace:
+#0 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(2758): scss_parser->throwParseError('unclosed block')
+#1 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(1669): scss_parser->parse('%sermon-modal-p...')
+#2 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(608): scssc->importFile('/home/phamm227/...', Object(stdClass))
+#3 /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php(639): scssc->compileImport(Array, Object(stdClass))
+#4 /home/phamm227/public_html/themes/alone-corona/wp-content/th in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/theme-includes/includes/scss.inc.php on line 4066
+

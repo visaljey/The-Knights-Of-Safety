@@ -1,0 +1,10 @@
+2020-02-25T08:03:46+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-params/vc_give_forms_listing.php on line 182
+
+2020-02-25T09:49:31+00:00 CRITICAL syntax error, unexpected ';' in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-params/vc_give_forms_listing.php on line 193
+
+2020-02-25T09:50:07+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST) in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-params/vc_give_forms_listing.php on line 195
+
+2020-02-25T09:50:26+00:00 CRITICAL syntax error, unexpected ';' in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-params/vc_give_forms_listing.php on line 193
+
+2020-02-25T09:50:36+00:00 CRITICAL syntax error, unexpected ';' in /home/phamm227/public_html/themes/alone-corona/wp-content/themes/alone/framework-customizations/extensions/custom-js-composer/vc-params/vc_give_forms_listing.php on line 193
+
